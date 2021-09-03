@@ -1,18 +1,95 @@
-.background {
-  position: fixed; 
-  top: -50%; 
-  left: -50%; 
-  width: 200%; 
-  height: 200%;
+@media (max-width: 830px){
+  .mobile {
+      height: 2400px;
+  }
 }
 
-img {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
-  min-width: 50%;
-  min-height: 50%;
+@media (max-width: 745px){
+  .mobile {
+      height: 2300px;
+  }
+}
+
+@media (max-width: 705px){
+  .mobile {
+      height: 2200px;
+  }
+}
+
+@media (max-width: 685px){
+  .mobile {
+      height: 2100px;
+  }
+}
+
+@media (max-width: 655px){
+  .mobile {
+      height: 2000px;
+  }
+}
+
+@media (max-width: 625px){
+  .mobile {
+      height: 1900px;
+  }
+}
+
+@media (max-width: 595px){
+  .mobile {
+      height: 1800px;
+  }
+}
+
+@media (max-width: 565px){
+  .mobile {
+      height: 1700px;
+  }
+}
+
+@media (max-width: 535px){
+  .mobile {
+      height: 1600px;
+  }
+}
+
+@media (max-width: 505px){
+  .mobile {
+      height: 1500px;
+  }
+}
+
+@media (max-width: 475px){
+  .mobile {
+      height: 1400px;
+  }
+}
+
+@media (max-width: 435px){
+  .mobile {
+      height: 1300px;
+  }
+}
+
+@media (max-width: 405px){
+  .mobile {
+      height: 1200px;
+  }
+}
+
+@media (max-width: 375px){
+  .mobile {
+      height: 1100px;
+  }
+}
+
+@media (max-width: 335px){
+  .mobile {
+      height: 1000px;
+  }
+}
+
+@media (max-width: 305px){
+  .mobile {
+      height: 900px;
+  }
 }
