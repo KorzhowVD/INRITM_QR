@@ -28,7 +28,7 @@
   }
 }
 
-@media (max-width: 625px){
+/*@media (max-width: 625px){
   .mobile {
       height: 1900px;
   }
@@ -78,18 +78,18 @@
 
 @media (max-width: 375px){
   .mobile {
-      height: 1100px;
+      height: 2200px;
   }
 }
 
 @media (max-width: 335px){
   .mobile {
-      height: 1000px;
+      height: 2200px;
   }
 }
 
 @media (max-width: 305px){
   .mobile {
-      height: 900px;
+      height: 2200px;
   }
-}
+}*/
