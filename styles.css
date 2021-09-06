@@ -16,9 +16,9 @@
   }
 }
 
-@media (max-width: 685px){
+@media (max-width: 650px){
   .mobile {
-      height: 2100px;
+      height: 1600px;
   }
 }
 
